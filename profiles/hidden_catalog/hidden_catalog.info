@@ -18,6 +18,7 @@ dependencies[] = module_filter
 ; Chaos tool suite
 dependencies[] = ctools
 ; Core
+dependencies[] = block
 dependencies[] = contextual
 dependencies[] = field
 dependencies[] = field_sql_storage
